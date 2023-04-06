@@ -1,0 +1,2 @@
+pnpm dlx create-t3-app | npx create-t3-app
+pnpm prisma db push
